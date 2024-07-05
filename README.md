@@ -1,6 +1,10 @@
 # 💫 About Me:
 I am currently immersed in studying Data Structures and Algorithms (DSA) with a focus on Java programming, while concurrently exploring the fascinating realm of blockchain technology.
 
+<p align="center">
+<img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EskandarAtrakchi&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
+  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eskandar-atrakchi-47603a22b/)
@@ -20,12 +24,10 @@ I am currently immersed in studying Data Structures and Algorithms (DSA) with a 
 ---
 
 
-
-
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=EskandarAtrakchi&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EskandarAtrakchi&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
+  
  
 
 <p align="center">
