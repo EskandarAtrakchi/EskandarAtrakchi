@@ -1,6 +1,12 @@
 # 💫 About Me:
 I am currently immersed in studying Data Structures and Algorithms (DSA) with a focus on Java programming, while concurrently exploring the fascinating realm of blockchain technology.
 
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+open;to+collaborate..;..contact+me..;+isgan151@gmail.com;" alt="Typing SVG"/>
+    </h1>
+</div>
+
 <p align="center">
 <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EskandarAtrakchi&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
