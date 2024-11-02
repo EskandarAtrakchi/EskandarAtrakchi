@@ -1,6 +1,15 @@
 # 💫 About Me:
 I am currently immersed in studying Data Structures and Algorithms (DSA) with a focus on Java programming, while concurrently exploring the fascinating realm of blockchain technology.
 
+
+
+<!-- Begin 270towin.com 2024 Presidential Election Countdown Widget -->
+<iframe src="https://www.270towin.com/2024-countdown-clock/widget300x380.php" width="300" height="380" border="0" frameBorder="0">
+    Browser not supported. Visit <a href="https://www.270towin.com/">www.270towin.com</a>
+</iframe>
+<!-- End 270towin.com 2024 Presidential Election Countdown widget -->
+
+
 <div align="center">
     <h1>
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=..+Let's+collaborate!..;..contact..;+isgan151@gmail.com;" alt="Typing SVG"/>
