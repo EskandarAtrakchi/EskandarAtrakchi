@@ -3,7 +3,7 @@ I am currently immersed in studying Data Structures and Algorithms (DSA) with a 
 
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=..+Let's+collaborate!..;..contact..;+isgan151@gmail.com;" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=..+Let's+collaborate!..;..contact..;+@EskandarAtrakchi;" alt="Typing SVG"/>
     </h1>
 </div>
 
