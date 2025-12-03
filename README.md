@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently immersed in studying Data Structures and Algorithms (DSA) with a focus on Java programming, while concurrently exploring the fascinating realm of blockchain technology.
+Active Software Developer 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eskandar-atrakchi-47603a22b/)
