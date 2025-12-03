@@ -13,13 +13,13 @@ Active Software Developer
   <img alig src="https://github-profile-trophy.vercel.app/?username=EskandarAtrakchi&theme=onedark&column=-1" />
 </p>
 
-<p align="center">
+<span align="center">
 ![Most Used Languages](https://raw.githubusercontent.com/EskandarAtrakchi/github-stats-transparent/output/generated/languages.svg)
-</p>
+</span>
 
- <p align="center">
+ <span align="center">
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EskandarAtrakchi&theme=github_dark)
-</p>
+</span>
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
